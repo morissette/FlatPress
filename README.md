@@ -13,6 +13,7 @@ After years of working with Wordpress and watching my monthly EC2 costs growing 
 
 ## Todo
 Everything... Literally just started...
+
 1. Cross platform system to publish articles
 2. Mobile App
 3. Make themability easy
@@ -22,6 +23,7 @@ Everything... Literally just started...
 
 ## Features
 Just planning right now; no code has been written so any features you see here have not been implemented
+
 1. Themable
 2. Extendable
 3. Automated
